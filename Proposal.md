@@ -50,3 +50,9 @@
 - Week 16 ＆ Week 17：Quality Control
   - [ ] 測試遊戲漏洞
   - [ ] 上架 Steam（如果可以）
+
+# PTSD Girafee Adventure 通關證明
+### 111590021 邱冠勛
+![YFHD](assets/yfhd_pass.png)
+
+### 113590049 朱政全
