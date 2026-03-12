@@ -72,41 +72,41 @@ Week 10: System Optimization
 
 [ ] Optimize combat and collision detection performance
 
-Week 11: Expanded Plant Roster
+Week 11:Level Expansion (Levels 1.1 - 1.3)
 
-[ ] Implement new plant types (e.g., Wall-nut, Cherry Bomb)
+[ ] Implement Wall-nut and basic wave spawning logic
 
-[ ] Develop unique abilities and attack patterns
+[ ] Balance difficulty for the first three levels
 
-Week 12: Expanded Zombie Roster
+Week 12: Level Expansion (Levels 1.4 - 1.5)
 
-[ ] Implement new zombie types (e.g., Conehead Zombie)
+[ ] Implement Cherry Bomb and Conehead Zombie
 
-[ ] Balance health points and movement speeds
+[ ] Finalize Stage 1 & 2 gameplay loop
 
-Week 13: Resource System
+Week 13: Advanced Entity Logic (For Stage 3)
 
-[ ] Finalize the Sun generation system
+[ ] Implement Pole Vaulting Zombie (Jumping logic)
 
-[ ] Implement planting costs and consumption mechanics
+[ ] Implement Chomper or Repeater plant types
 
-Week 14: Level Progression (Stage 1: Levels 1.1 - 1.3)
+Week 14: Level Progression (Levels 1.6 - 1.8)
 
-[ ] Design specific wave patterns for early levels
+[ ] Design specific wave patterns for mid-stage levels
 
-[ ] Balance difficulty and plant availability for 1.1 - 1.3
+[ ] Implement the "Lawn Mower" last-defense mechanic
 
-Week 15: Level Progression (Stage 2: Levels 1.4 - 1.5)
+Week 15: Final Level Design (Levels 1.9 - 1.10)
 
-[ ] Design wave patterns and difficulty scaling for Levels 1.4 - 1.5
+[ ] Implement the Level 1.10 special mechanics (Conveyor Belt mode)
 
-[ ] Test end-to-end gameplay loop for the first five levels
+[ ] Finalize high-difficulty wave configurations
 
 Week 16: Animation & Audio
 
 [ ] Integrate attack animations and visual feedback
 
-[ ] Implement game music and sound effects via PTSD
+[ ] Implement game music and sound effects via PTSD audio system
 
 Week 17: Testing, Final Polish, & Final Submission
 
